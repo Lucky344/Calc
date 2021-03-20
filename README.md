@@ -1,3 +1,2 @@
 # Calc
-
-Simple calculator with if-else statements in javascript.
+Calculator with simple if-else statements in javascript.
